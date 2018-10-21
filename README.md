@@ -1,1 +1,1 @@
-# LastNewsUpdated
+A website created to consolidate knowledge after JavaEE course. The site is giving us opportunity to add new content (in the form of news) to logged in users and the ability to evaluate it by other users. (Support for HTTP requests, login (Tomcat), filters, CRUD, JSP, JSTL, EL, HTML, CSS, Bootstrap).
